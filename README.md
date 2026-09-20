@@ -135,12 +135,13 @@ I care about building research infrastructure that is **fast, explicit, testable
 
 ---
 
-## GitHub stats
+## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huangbogeng&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangbogeng&layout=compact&theme=transparent&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/huangbogeng?label=Followers&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Public%20repositories-20-informational?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Merged%20external%20PRs-50%2B-success?style=flat-square&logo=github" />
+</p>
 
 ---
 
