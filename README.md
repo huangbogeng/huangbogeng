@@ -100,6 +100,19 @@ I care about building research infrastructure that is **fast, explicit, testable
 
 ---
 
+## Open Source Contributions
+
+- **[abstractqqq/polars_ds_extension #477](https://github.com/abstractqqq/polars_ds_extension/pull/477)**  
+  Added finite-window exponentially weighted rolling linear regression.
+
+- **[Point72/polars-io-tools #50](https://github.com/Point72/polars-io-tools/pull/50)**  
+  Fixed ClickHouse HTTP response decompression.
+
+- **Aequiludium ecosystem**  
+  Ongoing contributions across research infrastructure, trading calendars, data pipelines, factor analysis, backtesting, and portfolio optimization.
+
+---
+
 ## Tech stack
 
 <p>
