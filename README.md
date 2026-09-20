@@ -102,6 +102,10 @@ I care about building research infrastructure that is **fast, explicit, testable
 
 ## Open Source Contributions
 
+<p align="center">
+  <img src="./assets/contributions.svg" alt="Open-source contribution activity" width="100%" />
+</p>
+
 - **[abstractqqq/polars_ds_extension #477](https://github.com/abstractqqq/polars_ds_extension/pull/477)**  
   Added finite-window exponentially weighted rolling linear regression.
 
@@ -132,16 +136,6 @@ I care about building research infrastructure that is **fast, explicit, testable
 | Alpha research platform | [alpha-lab](https://github.com/GDUF-QUANTLAB/alpha-lab)                   | Factor research workflow, data access, trading calendars, analysis tools |
 | ML inference runtime    | [xgboost-rs](https://github.com/huangbogeng/xgboost-rs)                   | Rust-native XGBoost model loading and CPU prediction                     |
 | Developer productivity  | [cc-switch-ui](https://github.com/huangbogeng/cc-switch-ui)               | Rust backend + React frontend + local config automation                  |
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/huangbogeng?label=Followers&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Public%20repositories-20-informational?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Merged%20external%20PRs-50%2B-success?style=flat-square&logo=github" />
-</p>
 
 ---
 
